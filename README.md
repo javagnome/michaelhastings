@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Hastings</h1>
 <h3 align="center">Creative Software Developer</h3>
 
-- 💻 I enjoy **Designing Andriod applications and explaining OOP concepts**
+- 💻 I enjoy **designing Andriod applications, using recursion, and explaining OOP concepts**
 
-- 🌱 I’m currently learning **More JavaScript and AWS**
+- 🌱 I’m currently learning **more JavaScript and AWS**
 
 - 💬 Ask me about **Java and OOP**
 
